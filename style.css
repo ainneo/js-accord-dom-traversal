@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+.container{
+  background: black;
+  color:white;
+  width: 600px
+}
+
+.accord__heading{
+  text-align: center;
+  padding-top:2rem
+}
+
+.accord__container{
+  padding:2rem;
+  line-height:45px
+}
+
+.accord__question{
+  display:flex;
+  justify-content: space-between
+}
+
+.accord__answer{
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.3s all ease;
+  margin-left: 2rem;
+}
