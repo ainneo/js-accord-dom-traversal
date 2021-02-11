@@ -1,1 +1,1 @@
-This is a vanilla JS accordian, showcasing JavaScript DOM travesal.
+This is a vanilla JS accordian app - showcasing JavaScript DOM travesal.
